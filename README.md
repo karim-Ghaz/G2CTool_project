@@ -10,3 +10,4 @@ Pour guider les utilisateurs, un fichier EXAMPLE TEMPLATE est fourni. Après con
 Ce logiciel fonctionne en ligne et nécessite obligatoirement une connexion Wi-Fi.
 Le code source n’est pas accessible, ce programme est fourni pour un usage académique, et toute utilisation commerciale est interdite sans autorisation.
 Pour toute question ou problème, contactez les développeurs dans le cadre pédagogique prévu.
+Téléchargez le binaire Linux prêt à l’emploi ici : (https://doi.org/10.5281/zenodo.18091061)
