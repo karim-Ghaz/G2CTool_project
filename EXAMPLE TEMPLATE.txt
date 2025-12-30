@@ -1,7 +1,8 @@
 locus1
 locus2
-locu3
+locus3
 pop1
 ind001  ,  7010  1517  4335           
 ind002  ,  9093  1419  3041   
+
 ind003  ,  7093  1717  2841 
