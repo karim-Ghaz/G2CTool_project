@@ -11,4 +11,8 @@ Ce logiciel fonctionne en ligne et nécessite obligatoirement une connexion Wi-F
 Le code source n’est pas accessible, ce programme est fourni pour un usage académique, et toute utilisation commerciale est interdite sans autorisation.
 Pour toute question ou problème, contactez les développeurs dans le cadre pédagogique prévu.
 
+
+G2CTool est distribué sous la licence MIT. Voir le fichier LICENSE pour plus de détails.
+
+
 Téléchargez le binaire Linux prêt à l’emploi ici : (https://doi.org/10.5281/zenodo.18091061)
